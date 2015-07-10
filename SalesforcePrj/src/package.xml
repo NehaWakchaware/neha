@@ -18,10 +18,15 @@
     </types>
     <types>
         <members>Contact_Details__c</members>
+        <members>Emp__c</members>
         <members>Information__c</members>
         <members>Line_Item__c</members>
         <members>Object__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Document</name>
     </types>
     <types>
         <members>*</members>
